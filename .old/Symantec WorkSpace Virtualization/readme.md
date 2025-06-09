@@ -1,6 +1,8 @@
 # Symantec WorkSpace Virtualization
 At the time: This was the best software that existed for this task!
 
+https://en.wikipedia.org/wiki/Symantec_Workspace_Virtualization
+
 https://knowledge.broadcom.com/external/article?legacyId=INFO4060
 
 https://www.rorymon.com/blog/symantec-workspace-virtualization/
